@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087249304622",
+    "project_id": "th10-linh-6a93b",
+    "storage_bucket": "th10-linh-6a93b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087249304622:android:95797c21d5802df74be3bf",
+        "android_client_info": {
+          "package_name": "com.example.th10_linh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087249304622-88gibkln1gmv5fr0jkjcg0k2onecnc5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkAg9Y998-yIumEAG9EN2ITIA8J80xxNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087249304622-88gibkln1gmv5fr0jkjcg0k2onecnc5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
